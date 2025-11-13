@@ -1,6 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack projects with Next.js, TypeScript, and Tailwind CSS.<br><br>👯 I’m looking to collaborate on<br><br>Modern front-end and Next.js projects.<br><br>🤝 I’m looking for help with<br><br>Next.js performance & SEO.<br><br>🌱 I’m currently learning<br><br>Advanced Next.js & AWS S3 integration.<br><br>💬 Ask me about<br><br>Next.js • Tailwind CSS • TypeScript • Front-end dev.<br><br>⚡ Fun fact<br><br>I create bite-sized dev content as Dev Nex.
+I build fast, responsive, and SEO-friendly web applications using Next.js, TypeScript, and Tailwind CSS. I focus on clean UI, great performance, and smooth user experience.
 
+I’m Essam Mohamed, a Full-Stack Developer based in Alexandria, Egypt, creating modern web apps and dashboards with scalable architecture and strong attention to detail.
+
+💼 What I Do
+
+⚡ Full-stack web apps with Next.js, API Routes, and MongoDB
+
+🎨 Responsive UIs with modern layouts + dark mode
+
+🛠️ Dashboards and admin panels with role-based access
+
+🔗 API integrations, file uploads, authentication
+
+🚀 Performance, SEO, and accessibility optimization
+
+🧰 Tech Stack
+
+⚛️ Next.js
+
+🔷 TypeScript
+
+🎨 Tailwind CSS
+
+🍃 MongoDB / Mongoose
+
+🛠️ Git • GitHub • Vercel
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3osal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Essam Abdel-Maaboud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/essam_iam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/‏Essam Mohamed‏) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@devnex.essam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:essam.mohamed.dev@gmail.com) 
